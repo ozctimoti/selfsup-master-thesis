@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4f40a07-3358-421f-b7a4-3871a96896d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SCHXkm5wCHhRPUXPYS9szs3M4T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/models" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/backbones" />
+      <recent name="$PROJECT_DIR$/pretrained" />
+      <recent name="$PROJECT_DIR$/old_main" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.roi_ops">
+    <configuration name="dummy_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selfsup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dummy_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dummy_mainv2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selfsup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dummy_mainv2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_densecl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selfsup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_densecl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="roi_ops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selfsup" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/roi_ops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.roi_ops" />
+        <item itemvalue="Python.dummy_mainv2" />
+        <item itemvalue="Python.dummy_main" />
+        <item itemvalue="Python.main_densecl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4f40a07-3358-421f-b7a4-3871a96896d0" name="Default Changelist" comment="" />
+      <created>1688643684021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688643684021</updated>
+      <workItem from="1688643685217" duration="1543000" />
+      <workItem from="1688645452303" duration="1876000" />
+      <workItem from="1688803703639" duration="1683000" />
+      <workItem from="1688829638385" duration="2219000" />
+      <workItem from="1688982974275" duration="3063000" />
+      <workItem from="1689148649272" duration="5926000" />
+      <workItem from="1689423538333" duration="5366000" />
+      <workItem from="1689443398573" duration="151000" />
+      <workItem from="1689578113648" duration="707000" />
+      <workItem from="1689669005003" duration="1304000" />
+      <workItem from="1689753159172" duration="4127000" />
+      <workItem from="1690801589809" duration="556000" />
+      <workItem from="1690875874285" duration="2905000" />
+      <workItem from="1690879295614" duration="277000" />
+      <workItem from="1690959531507" duration="353000" />
+      <workItem from="1691234449804" duration="204000" />
+      <workItem from="1691234714927" duration="21000" />
+      <workItem from="1691234797704" duration="638000" />
+      <workItem from="1691559252199" duration="943000" />
+      <workItem from="1691827329504" duration="1240000" />
+      <workItem from="1691950626930" duration="923000" />
+      <workItem from="1692285939070" duration="905000" />
+      <workItem from="1692439219894" duration="5418000" />
+      <workItem from="1692804092377" duration="928000" />
+      <workItem from="1693111419223" duration="1211000" />
+      <workItem from="1693507193541" duration="565000" />
+      <workItem from="1693567674516" duration="1477000" />
+      <workItem from="1693772021652" duration="19000" />
+      <workItem from="1693812274164" duration="6015000" />
+      <workItem from="1693820955521" duration="2000" />
+      <workItem from="1694071557343" duration="2473000" />
+      <workItem from="1694108397255" duration="378000" />
+      <workItem from="1694148375982" duration="725000" />
+      <workItem from="1694255717801" duration="891000" />
+      <workItem from="1694281999649" duration="392000" />
+      <workItem from="1694283003389" duration="306000" />
+      <workItem from="1694401653143" duration="1394000" />
+      <workItem from="1694421461359" duration="1111000" />
+      <workItem from="1694423173614" duration="59000" />
+      <workItem from="1694430683795" duration="3493000" />
+      <workItem from="1694515696835" duration="384000" />
+      <workItem from="1694517204585" duration="52000" />
+      <workItem from="1694581653248" duration="848000" />
+      <workItem from="1694679871928" duration="458000" />
+      <workItem from="1694712837189" duration="9053000" />
+      <workItem from="1694750184476" duration="694000" />
+      <workItem from="1694756904058" duration="2875000" />
+      <workItem from="1694762058630" duration="225000" />
+      <workItem from="1694762487922" duration="710000" />
+      <workItem from="1694764499841" duration="2841000" />
+      <workItem from="1694770989953" duration="350000" />
+      <workItem from="1694775005106" duration="4515000" />
+      <workItem from="1695022639117" duration="590000" />
+      <workItem from="1695025401309" duration="1437000" />
+      <workItem from="1695038926108" duration="4098000" />
+      <workItem from="1695106666582" duration="2236000" />
+      <workItem from="1695110698125" duration="1606000" />
+      <workItem from="1695113550206" duration="163000" />
+      <workItem from="1695197969352" duration="8506000" />
+      <workItem from="1695235711682" duration="43000" />
+      <workItem from="1695283540738" duration="2894000" />
+      <workItem from="1695293089705" duration="693000" />
+      <workItem from="1695299880595" duration="424000" />
+      <workItem from="1695310831454" duration="3000" />
+      <workItem from="1695313678876" duration="1679000" />
+      <workItem from="1695317684627" duration="2752000" />
+      <workItem from="1695365409249" duration="5000" />
+      <workItem from="1695367011571" duration="2908000" />
+      <workItem from="1695376106207" duration="697000" />
+      <workItem from="1695387793096" duration="274000" />
+      <workItem from="1695388505355" duration="314000" />
+      <workItem from="1695396003289" duration="4000" />
+      <workItem from="1695630424795" duration="179000" />
+      <workItem from="1695630638013" duration="2000" />
+      <workItem from="1697707387730" duration="1597000" />
+      <workItem from="1697787435657" duration="526000" />
+      <workItem from="1698499644039" duration="1000" />
+      <workItem from="1727096788300" duration="695000" />
+      <workItem from="1727097783647" duration="258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1727097097864">
+      <screen x="0" y="25" width="1680" height="964" />
+    </state>
+    <state x="578" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.964@0.25.1680.964" timestamp="1727097097864" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main_proposal.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/selfsup$main_densecl.coverage" NAME="main_densecl Coverage Results" MODIFIED="1689425393810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selfsup$roi_ops.coverage" NAME="roi_ops Coverage Results" MODIFIED="1695293515203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selfsup_v3$dummy_mainv2.coverage" NAME="dummy_mainv2 Coverage Results" MODIFIED="1692443234736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selfsup_v2$dummy_main.coverage" NAME="dummy_main Coverage Results" MODIFIED="1689756297369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selfsup_v3$dummy_main.coverage" NAME="dummy_main Coverage Results" MODIFIED="1692442217820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
